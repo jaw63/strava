@@ -17,7 +17,7 @@ Some of these plots were inspired by Marcus Volz's stravavis pack for R (and now
 
 ## Sample Plots
 
-### Calendar (inspired by marcusvolz)
+### Calendar Plot of Daily Distance (inspired by marcusvolz)
 <img src = "https://github.com/jaw63/strava/blob/main/cal_v2.png?raw=true" width = "600">
 
 ### Total Relative Effort by Month
