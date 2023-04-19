@@ -17,11 +17,14 @@ Some of these plots were inspired by Marcus Volz's stravavis pack for R (and now
 
 ## Sample Plots
 
-### Total and Average Relative Effort 
-<img src = "https://github.com/jaw63/strava/blob/main/myplot.png?raw=true" width="500">
+### Calendar (inspired by marcusvolz)
+<img src = "https://github.com/jaw63/strava/blob/main/cal_v2.png?raw=true" width = "600">
 
 ### Total Relative Effort by Month
 <img src = "https://github.com/jaw63/strava/blob/main/relative_effort_heatmap.png?raw=true" width="600">
+
+### Total and Average Relative Effort 
+<img src = "https://github.com/jaw63/strava/blob/main/myplot.png?raw=true" width="500">
 
 ### Unique Route Traces (inspired by marcusvolz)
 <img src = "https://github.com/jaw63/strava/blob/main/facet_plot.png?raw=true" width = "600">
