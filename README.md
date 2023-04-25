@@ -1,8 +1,8 @@
 # Jessy's Strava Plot Pack
 ## To Use
 * Download your achive of Strava Data.
-* Set up your IDE to run each python script in the folder in which it is located, or modify the code to point your script to the appropriate filepath.
-* Enjoy your plots  
+* Either place the python scripts in the same folder as your data and set up your IDE to run each python script in the folder in which it is located, or modify the code to point your script to the appropriate filepath.
+* Enjoy your plots.  
 
 ## Dependencies
 * Python 3
